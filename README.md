@@ -20,7 +20,7 @@ I’m passionate about:
 ### 🛠️ Technologies & Tools
 
 **Languages:**  
- `C++`  • `Python` • `JavaScript` • `Typescript`  • `SQL` • `Java`  • `Delphi'• `Object Pascal`   • `Scheme`  • `Prolog` • `Java`   • `PHP`  
+ `C++`  • `Python` • `JavaScript` • `Typescript`  • `SQL` • `Java`  • `Delphi' • `Object Pascal`   • `Scheme`  • `Prolog` • `Java`   • `PHP`  
 
 **Web Development:**  
 `HTML` • `CSS` • `Node.js` • `Express.js` • `Angular`  • `Flask`  
