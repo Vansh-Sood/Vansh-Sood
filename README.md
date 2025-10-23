@@ -20,16 +20,16 @@ I’m passionate about:
 ### 🛠️ Technologies & Tools
 
 **Languages:**  
-`Java` • `Python` • `JavaScript` • `C++` • `SQL`
+ `C++`  • `Python` • `JavaScript` • `Typescript`  • `SQL` • `Java`  • `Delphi'• `Object Pascal`   • `Scheme`  • `Prolog` • `Java`   • `PHP`  
 
 **Web Development:**  
-`HTML` • `CSS` • `Node.js` • `Express.js` 
+`HTML` • `CSS` • `Node.js` • `Express.js` • `Angular`  • `Flask`  
 
 **Databases:**  
-`MySQL` • `MongoDB` • `MariaDB`
+`MySQL` • `ObjectDB` • `MariaDB` • `PostgreSQL`  • `BaseX`  
 
 **Tools & Platforms:**  
-`Git` • `GitHub` • `VS Code` • `IntelliJ` • `NetBeans` 
+`Git` • `GitHub` • `Figma`• `Microsoft Powerpoint`   • `Microsoft Word` • `Microsoft Excel`   
 
 ---
 
@@ -37,7 +37,9 @@ I’m passionate about:
 
 - 🥇 **Top Performer (2024)** – Highest academic performance in second-year Computer Science
 - 🥇 **Top Performer (2023)** – Highest academic performance in first-year Computer Science 
-- 🌍 **Golden Key International Honour Society Member** – Recognized for academic excellence and leadership potential  
+- 🌍 **Golden Key International Honour Society Member** – Recognized for academic excellence and leadership potential
+- 🥇 **Top Performer in IT (2022)** – Highest academic performance in IT in Highschool in Madibeng District
+- 🥇 **Top Performer in Matric (2022)** – Highest academic performance in Matric in North West (Quintile 5 schools)
 
 ---
 
